@@ -1,6 +1,7 @@
 # sensors
 
-這是專為micro:bit提供的感應器積木
+這是專為micro:bit提供的感應器積木，內含DHT11、HC-SR04、RGBLED
+* 載自吉哥的分享，教學整理用
 
 ## License
 
